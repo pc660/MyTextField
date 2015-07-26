@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F088317F-2178-41F9-816C-E3AD92D2DA5F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4F9F52A30F95A68676BDEE42A3A7DE4709A7C49</key>
+		<string>https://github.com/pc660/MyTextField</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test/Test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4F9F52A30F95A68676BDEE42A3A7DE4709A7C49</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pc660/MyTextField</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4F9F52A30F95A68676BDEE42A3A7DE4709A7C49</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4F9F52A30F95A68676BDEE42A3A7DE4709A7C49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyTextField</string>
+		</dict>
+	</array>
+</dict>
+</plist>
